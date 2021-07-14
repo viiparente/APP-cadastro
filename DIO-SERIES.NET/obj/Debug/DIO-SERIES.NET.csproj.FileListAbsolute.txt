@@ -1,0 +1,7 @@
+C:\Users\vdpar\source\repos\DIO-SERIES.NET\DIO-SERIES.NET\bin\Debug\DIO-SERIES.NET.exe.config
+C:\Users\vdpar\source\repos\DIO-SERIES.NET\DIO-SERIES.NET\bin\Debug\DIO-SERIES.NET.exe
+C:\Users\vdpar\source\repos\DIO-SERIES.NET\DIO-SERIES.NET\bin\Debug\DIO-SERIES.NET.pdb
+C:\Users\vdpar\source\repos\DIO-SERIES.NET\DIO-SERIES.NET\obj\Debug\DIO-SERIES.NET.csproj.AssemblyReference.cache
+C:\Users\vdpar\source\repos\DIO-SERIES.NET\DIO-SERIES.NET\obj\Debug\DIO-SERIES.NET.csproj.CoreCompileInputs.cache
+C:\Users\vdpar\source\repos\DIO-SERIES.NET\DIO-SERIES.NET\obj\Debug\DIO-SERIES.NET.exe
+C:\Users\vdpar\source\repos\DIO-SERIES.NET\DIO-SERIES.NET\obj\Debug\DIO-SERIES.NET.pdb
